@@ -1,0 +1,82 @@
+	/*
+  	Flaticon icon font: Flaticon
+  	Creation date: 26/01/2018 10:10
+  	*/
+
+
+@font-face {
+  font-family: "Flaticon";
+  src: url("../webfonts/Flaticon2.eot");
+  src: url("../webfonts/Flaticon2d41d.eot?#iefix") format("embedded-opentype"),
+       url("../webfonts/Flaticon2.woff2") format("woff2"),
+       url("../webfonts/Flaticon2.woff") format("woff"),
+       url("../webfonts/Flaticon2.ttf") format("truetype"),
+       url("../webfonts/Flaticon2.svg#Flaticon") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: "Flaticon";
+    src: url("../webfonts/Flaticon2.svg#Flaticon") format("svg");
+  }
+}
+
+[class^="flaticon-"]:before, [class*=" flaticon-"]:before,
+[class^="flaticon-"]:after, [class*=" flaticon-"]:after {   
+  font-family: Flaticon;
+        font-size: 20px;
+font-style: normal;
+}
+
+.flaticon-001-bank:before { content: "\f100"; }
+.flaticon-002-stationery:before { content: "\f101"; }
+.flaticon-003-cabinet:before { content: "\f102"; }
+.flaticon-004-push-pin:before { content: "\f103"; }
+.flaticon-005-folder:before { content: "\f104"; }
+.flaticon-006-printer:before { content: "\f105"; }
+.flaticon-007-certificate:before { content: "\f106"; }
+.flaticon-008-letter:before { content: "\f107"; }
+.flaticon-009-checklist:before { content: "\f108"; }
+.flaticon-010-coffee:before { content: "\f109"; }
+.flaticon-011-notepad:before { content: "\f10a"; }
+.flaticon-012-lamp:before { content: "\f10b"; }
+.flaticon-013-colleague:before { content: "\f10c"; }
+.flaticon-014-clock:before { content: "\f10d"; }
+.flaticon-015-documents:before { content: "\f10e"; }
+.flaticon-016-plant:before { content: "\f10f"; }
+.flaticon-017-knowledge:before { content: "\f110"; }
+.flaticon-018-trophy:before { content: "\f111"; }
+.flaticon-019-employee:before { content: "\f112"; }
+.flaticon-020-call-center:before { content: "\f113"; }
+.flaticon-021-chart:before { content: "\f114"; }
+.flaticon-022-lightbulb:before { content: "\f115"; }
+.flaticon-023-binders:before { content: "\f116"; }
+.flaticon-024-building:before { content: "\f117"; }
+.flaticon-025-window:before { content: "\f118"; }
+.flaticon-026-bin:before { content: "\f119"; }
+.flaticon-027-meeting:before { content: "\f11a"; }
+.flaticon-028-businessman:before { content: "\f11b"; }
+.flaticon-029-businesswoman:before { content: "\f11c"; }
+.flaticon-030-desk:before { content: "\f11d"; }
+.flaticon-031-teamwork:before { content: "\f11e"; }
+.flaticon-032-conversation:before { content: "\f11f"; }
+.flaticon-033-work:before { content: "\f120"; }
+.flaticon-034-pencil:before { content: "\f121"; }
+.flaticon-035-reception:before { content: "\f122"; }
+.flaticon-036-chair:before { content: "\f123"; }
+.flaticon-037-computer:before { content: "\f124"; }
+.flaticon-038-presentation:before { content: "\f125"; }
+.flaticon-039-tie:before { content: "\f126"; }
+.flaticon-040-bicycle:before { content: "\f127"; }
+.flaticon-041-stamp:before { content: "\f128"; }
+.flaticon-042-attached:before { content: "\f129"; }
+.flaticon-043-save-file:before { content: "\f12a"; }
+.flaticon-044-colleague-1:before { content: "\f12b"; }
+.flaticon-045-cabinet-1:before { content: "\f12c"; }
+.flaticon-046-structure:before { content: "\f12d"; }
+.flaticon-047-briefcase:before { content: "\f12e"; }
+.flaticon-048-building-1:before { content: "\f12f"; }
+.flaticon-049-corkboard:before { content: "\f130"; }
+.flaticon-050-schedule:before { content: "\f131"; }
