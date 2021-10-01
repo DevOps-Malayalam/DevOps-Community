@@ -5869,7 +5869,7 @@ section.main-banner.overlay.hp18 {
 	z-index: 1;
 }
 .social-links li a:hover {
-	background-color: #4a44f2;
+	background-image: linear-gradient(to top, #ff4b2b, #ff416c);
 }
 
 
