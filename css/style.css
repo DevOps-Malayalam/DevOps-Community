@@ -2150,6 +2150,10 @@ header nav ul li.has-mega-menu:hover > .mega-menu ul {
 	padding: 72px 0;
 	margin-bottom: 30px;
 	margin-right: 30px;
+	transition: transform 0.25s;
+}
+.abt-proptz2 ul li:hover{
+	transform: scale(1.025);
 }
 .abt-proptz2 ul li.stayle2 {
 	position: relative;
