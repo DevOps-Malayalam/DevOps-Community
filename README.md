@@ -11,7 +11,12 @@
 ![GitHub contributors](https://img.shields.io/github/contributors/DevOps-Malayalam/DevOps-Community?style=flat-square)
 ![GitHub last commit](https://img.shields.io/github/last-commit/DevOps-Malayalam/DevOps-Community?style=flat-square)
 
+# Hacktoberfest 
+Hacktoberfest is open to everyone in our global community. Whether you’re a seasoned contributor or looking for projects to contribute to for the first time, you’re welcome to participate. 
+Pull requests can be made in any participating GitHub or GitLab hosted repository/project. Look for the **'hacktoberfest'** topic to know if a repository/project is participating in Hacktoberfest. Pull requests must be approved by a maintainer of the repository/project to count.
 
+You can sign up anytime between October 1 and October 31. Just be sure to sign up on the official Hacktoberfest website for your pull requests to count. 
+<br>
 ## This the website of [DevOps Malayalam Community](https://devopsmalayalam.io). The code is written in HTML & CSS. All are welcome to make the contibution.
 
 ## Steps
@@ -23,7 +28,7 @@
     4. Commit & Generate the Pull Request
     5. And That's it
 
-
+Check the [Contribution File](/CONTRIBUTING.md) For the Rules
 <br>
 
 ## Don't stop by this. Go and Generate your Pull requestand continue contributing to the Open Source
