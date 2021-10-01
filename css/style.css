@@ -721,7 +721,7 @@ nav ul li.active > a {
 	float: right;
 	text-align: right;
 	margin-left: 0;
-	display: inline-flex;
+	display: none;
 	align-items: center;
 }
 .icons-list li {
