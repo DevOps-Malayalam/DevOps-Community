@@ -19,6 +19,7 @@ You can sign up anytime between October 1 and October 31. Just be sure to sign u
 <br>
 ## This the website of [DevOps Malayalam Community](https://devopsmalayalam.io). The code is written in HTML & CSS. All are welcome to make the contibution.
 
+# How to create a Pull Request ?
 ## Steps
     1. Fork this repo
     2. Clone this repo
@@ -27,8 +28,15 @@ You can sign up anytime between October 1 and October 31. Just be sure to sign u
     3. Add your code 
     4. Commit & Generate the Pull Request
     5. And That's it
+[Create Pull Request](https://www.digitalocean.com/community/tutorials/how-to-create-a-pull-request-on-github) 
+<br>
+<br>
 
-Check the [Contribution File](/CONTRIBUTING.md) For the Rules
+# How to rebase and update Pull Request
+[Rebasing and Updating Pull Request](https://www.digitalocean.com/community/tutorials/how-to-rebase-and-update-a-pull-request)
+<br>
+<br>
+## Check the [Contributing File](/CONTRIBUTING.md) For the Rules
 <br>
 
 ## Don't stop by this. Go and Generate your Pull requestand continue contributing to the Open Source
