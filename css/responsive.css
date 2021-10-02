@@ -48,6 +48,7 @@
 @media (max-width: 1200px) {
 	header nav {display: none;}
 	.header-content {height: 80px;}
+	.logo a img {height: 70px;}
 	.main-banner {padding: 225px 0 150px;}
 	.banner-img > img {max-width: 50%;}
 	.about-text {padding-right: 0;}
