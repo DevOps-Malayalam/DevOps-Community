@@ -7931,3 +7931,14 @@ header.sticky.hp6 {
   opacity: 0.7;
   filter: alpha(opacity=70);
 }
+
+
+.navigation-bar:hover{
+  color: #d8cc1f;
+  font-size: larger;
+  
+}
+
+nav{
+  height: fit-content;
+}
