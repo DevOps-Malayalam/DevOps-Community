@@ -740,10 +740,17 @@ nav ul li.active > a:before {
   display: flex;
   flex-wrap: wrap;
   align-items: center;
+  justify-content: space-between;
+  padding: 10px;
 }
 .logo {
   float: left;
   margin-top: -1px;
+}
+.navlogo {
+  display: inline-block;
+  margin-bottom: -3px;
+  width: 70%;
 }
 nav {
   float: right;
@@ -752,7 +759,7 @@ nav {
 }
 nav ul li {
   display: inline-block;
-  padding: 52px 16px;
+  padding: 16px 16px;
   position: relative;
 }
 nav ul li.has-mega-menu {
