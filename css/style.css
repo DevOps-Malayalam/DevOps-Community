@@ -2228,7 +2228,7 @@ header nav ul li.has-mega-menu:hover > .mega-menu ul {
   padding: 72px 0;
   display: block;
   width: 100%;
-  height: 100%
+  height: 100%;
 }
 
 .more-sectat2 .about-text {
@@ -4391,6 +4391,11 @@ header.style2.hp5 nav ul li:last-child a {
 /* ================= PRE LOADER =============== */
 
 /* Page Loading */
+
+html {
+  scroll-behavior: smooth;
+}
+
 .page-loading {
   background-color: #ffffff;
   content: "";
@@ -7938,13 +7943,34 @@ header.sticky.hp6 {
   filter: alpha(opacity=70);
 }
 
-
-.navigation-bar:hover{
+.navigation-bar:hover {
   color: #d8cc1f;
   font-size: larger;
-  
 }
 
-nav{
+nav {
   height: fit-content;
+}
+
+.arrow-btn {
+  position: fixed;
+  bottom: 30px;
+  right: 30px;
+  z-index: 9;
+  display: none;
+}
+
+.arrow-btn a {
+  height: 50px;
+  width: 45px;
+  text-align: center;
+  background-color: #1b1b1b;
+  display: block;
+  border-radius: 7px;
+  cursor: pointer;
+}
+.arrow-btn a span {
+  color: #f2f2f2;
+  line-height: 50px;
+  font-size: 25px;
 }
