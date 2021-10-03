@@ -39,4 +39,4 @@ You can sign up anytime between October 1 and October 31. Just be sure to sign u
 ## Check the [Contributing File](/CONTRIBUTING.md) For the Rules
 <br>
 
-## Don't stop by this. Go and Generate your Pull requestand continue contributing to the Open Source
+## Don't stop by this. Go and Generate your Pull request and continue contributing to the Open Source
