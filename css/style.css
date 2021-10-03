@@ -1959,11 +1959,14 @@ header nav ul li.has-mega-menu:hover > .mega-menu ul {
 /* Social Links */
 ul {
   padding: 0;
+
   list-style: none;
 }
 .footer-social-icons {
   width: 350px;
+
   display: block;
+
 }
 .social-icon {
   color: #fff;
@@ -1981,72 +1984,84 @@ ul.social-icons {
   text-decoration: none;
 }
 .fa-facebook {
+
   padding: 10px 14px;
   -o-transition: 0.5s;
   -ms-transition: 0.5s;
   -moz-transition: 0.5s;
   -webkit-transition: 0.5s;
   transition: 0.5s;
+
   background-color: #322f30;
 }
 .fa-facebook:hover {
   background-color: #3d5b99;
 }
 .fa-slack {
+
   padding: 10px 12px;
   -o-transition: 0.5s;
   -ms-transition: 0.5s;
   -moz-transition: 0.5s;
   -webkit-transition: 0.5s;
   transition: 0.5s;
+
   background-color: #322f30;
 }
 .fa-slack:hover {
   background-color: #ed000c;
 }
 .fa-instagram {
+
   padding: 10px 14px;
   -o-transition: 0.5s;
   -ms-transition: 0.5s;
   -moz-transition: 0.5s;
   -webkit-transition: 0.5s;
   transition: 0.5s;
+
   background-color: #322f30;
 }
 .fa-instagram:hover {
   background-color: #eb3169;
 }
 .fa-youtube {
+
   padding: 10px 14px;
   -o-transition: 0.5s;
   -ms-transition: 0.5s;
   -moz-transition: 0.5s;
   -webkit-transition: 0.5s;
   transition: 0.5s;
+
   background-color: #322f30;
 }
 .fa-youtube:hover {
   background-color: #e64a41;
 }
 .fa-telegram {
+
   padding: 10px 14px;
   -o-transition: 0.5s;
   -ms-transition: 0.5s;
   -moz-transition: 0.5s;
   -webkit-transition: 0.5s;
   transition: 0.5s;
+
   background-color: #322f30;
 }
 .fa-telegram:hover {
   background-color: #3a9fca;
 }
 .fa-whatsapp {
+
   padding: 10px 14px;
   -o-transition: 0.5s;
   -ms-transition: 0.5s;
   -moz-transition: 0.5s;
   -webkit-transition: 0.5s;
   transition: 0.5s;
+
   background-color: #322f30;
 }
 .fa-whatsapp:hover {
@@ -5938,6 +5953,8 @@ section.main-banner.overlay.hp18 {
 .bottom-footer.bg-changge {
   background-color: #0a0c12;
 }
+
+
 
 /* =================== HOMEPAGE 21 ====================== */
 
