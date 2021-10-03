@@ -97,16 +97,10 @@ $(window).on("load", function () {
   $(".page-loading").fadeOut();
 
   // SCROLL TO TOP BUTTON
-  var x = document.getElementById("myDIV");
-  window.addEventListener("scroll", function () {
-    let offset;
-    offset = window.pageYOffset;
-    if (offset > 200) {
-      x.style.display = "block";
-    }
-    if (offset < 200) {
-      x.style.display = "none";
-    }
+
+  $(".scrollTop").on("click", function () {
+    $("html, body").animate({ scrollTop: 0 }, 1000);
+    return false;
   });
 
   // handle links with @href started with '#' only
@@ -180,4 +174,17 @@ $(window).on("load", function () {
         relY = e.pageY - parentOffset.top;
       $(this).find("span").css({ top: relY, left: relX });
     });
+});
+
+//scroller
+var x = document.querySelector("#myDIV");
+window.addEventListener("scroll", function () {
+  let offset;
+  offset = window.pageYOffset;
+  if (offset > 300) {
+    x.style.display = "block";
+  }
+  if (offset < 300) {
+    x.style.display = "none";
+  }
 });
