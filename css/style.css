@@ -2056,7 +2056,7 @@ ul.social-icons {
   font-weight: 700;
   display: inline-block;
   position: relative;
-  margin-bottom: 46px;
+  margin-bottom: 12px;
   margin-top: -2px;
 }
 
@@ -3131,7 +3131,7 @@ header.style2.hp5 nav ul li:last-child a {
 }
 
 .top-footer.style2 {
-  padding: 450px 0 150px;
+  padding: 450px 0 0px;
 }
 .top-footer.style3 {
   padding: 500px 0 150px;
