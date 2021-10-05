@@ -8065,19 +8065,20 @@ nav {
 /*Scroller css*/
 .arrow-btn {
   position: fixed;
-  bottom: 30px;
-  right: 30px;
+  bottom: 50px;
+  right: 50px;
   z-index: 9;
   display: none;
+  border-radius: 50px;
 }
 
 .arrow-btn a {
   height: 50px;
-  width: 45px;
+  width: 50px;
   text-align: center;
   background-color: #f2f2f2;
   display: block;
-  border-radius: 35px;
+  border-radius: 50px;
   cursor: pointer;
 }
 .arrow-btn a span {

@@ -98,7 +98,7 @@ $(window).on("load", function () {
 
   // SCROLL TO TOP BUTTON
 
-  $(".scrollTop").on("click", function () {
+  $(".arrow-btn").on("click", function () {
     $("html, body").animate({ scrollTop: 0 }, 1000);
     return false;
   });
