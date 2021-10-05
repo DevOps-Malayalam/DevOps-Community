@@ -157,6 +157,7 @@
 	.search-appointment {bottom: -200px;}
 	.appt-content {padding: 60px 50px;}
 	.vgg-img > img {width: 100%;}
+	.close-menu {top: 40px; right: 20px}
 	.responsive-mobile-menu {width: 100%;}
 }
 
@@ -555,7 +556,7 @@
 	.ab-footer .social-links li {margin-right: 20px;}
 	.ab-footer .social-links li:last-child {margin-right: 0;}
 	header.height-hd {height: 80px;}
-	.close-menu {right: 50px;}
+	.close-menu {top: 40px; right: 20px}
 	.vect-bg {display: none;}
 	.latest-works-section .row {margin: 0;}
 	.togglee-it {margin-bottom: 40px;}
@@ -776,6 +777,7 @@
 	.main-testi-slide {margin-bottom: 20px;}
 	.banner-text {text-align: center !important;}
 	.oct-lzt li:before {display: none;}
+	.close-menu {top: 20px; right: 20px}
 	.testi_carousel {margin: 0;padding: 100px 0;}
 	.blog-info-post blockquote {padding-left: 0;padding-top: 70px;}
 	.blog-info-post blockquote:before {left: 50%;transform: translateX(-50%);}
@@ -991,7 +993,7 @@
 	.vg-text > p {font-size: 20px;line-height: 30px;margin-bottom: 35px;}
 	.icons-list li a.cart-btn {display: none;}
 	.responsive-mobile-menu {width: 100%;}
-	.close-menu {top: 30px;}
+	.close-menu {top: 30px; right: 38px}
 	.bt-footer > p {max-width: 100%;}
 	.team-section.style2 .col-lg-3 {margin-bottom: 10px;}
 	.team-section.style2 .full-bt {margin-top: 80px;}
