@@ -147,7 +147,7 @@ video {
   font: inherit;
   vertical-align: baseline;
 }
-body, a, a:hover {cursor: crosshair, default!important;}
+
 
 /* HTML5 display-role reset for older browsers */
 article,
@@ -176,11 +176,7 @@ body {
   font-family: "Open Sans", sans-serif;
   line-height: 1;
   overflow-x: hidden;
-  cursor:crosshair;
-  
 }
-cursor:hover{
-cursor: pointer;}
 
 ::selection {
   color: black;
@@ -3110,13 +3106,13 @@ header.style2.hp5 nav ul li:last-child a {
   margin: 0 auto;
    transform: translateY(7px);
   transition: all 0.3s ease-in-out;
-  animation:float 1s ease-in-out infinite;
+  animation:floaty 1s ease-in-out infinite;
   animation-direction:alternate;
 }
 .newz-content:hover{
   transform: translateY(7px);
  transition: all 0.3s ease-in-out;
- animation:float 0s ease-in-out infinite;
+ animation:floaty 0s ease-in-out infinite;
  animation-direction:alternate;
 }
 .newz-content > h2 {
