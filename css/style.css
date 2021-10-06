@@ -8053,9 +8053,14 @@ header.sticky.hp6 {
   filter: alpha(opacity=70);
 }
 
+.navigation-bar{
+  transition: all .2s ease-in-out;
+}
+
 .navigation-bar:hover {
   color: #d8cc1f;
-  font-size: larger;
+  /* font-size: larger; */
+  transform: scale(1.15);
 }
 
 nav {
