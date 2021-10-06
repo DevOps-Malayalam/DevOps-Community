@@ -560,6 +560,7 @@
 	.latest-works-section .row {margin: 0;}
 	.togglee-it {margin-bottom: 40px;}
 	.header-content .icons-list{display: flex;}
+	.responsive-mobile-menu .social-links li{margin-right: 24px;}
 }
 
 
@@ -780,6 +781,7 @@
 	.blog-info-post blockquote {padding-left: 0;padding-top: 70px;}
 	.blog-info-post blockquote:before {left: 50%;transform: translateX(-50%);}
 	.filters-nav li {margin-right: 0;width: 100%;}
+	.responsive-mobile-menu .social-links li{margin-right: 20px;}
 }
 
 
@@ -1026,4 +1028,5 @@
 	.shop-infos-list {margin-bottom: 30px;}
 	.masonary-layout .full-bt {margin-top: 60px;}
 	.toggle-item > h2 {font-size: 16px;}
+	.responsive-mobile-menu .social-links li{margin-right: 2px;}
 }
