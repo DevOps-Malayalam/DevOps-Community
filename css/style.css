@@ -147,6 +147,8 @@ video {
   font: inherit;
   vertical-align: baseline;
 }
+
+
 /* HTML5 display-role reset for older browsers */
 article,
 aside,
@@ -174,6 +176,11 @@ body {
   font-family: "Open Sans", sans-serif;
   line-height: 1;
   overflow-x: hidden;
+}
+
+::selection {
+  color: black;
+  background: #BA55D3;
 }
 ul {
   list-style: none;
@@ -3098,6 +3105,16 @@ header.style2.hp5 nav ul li:last-child a {
 .newz-content {
   max-width: 630px;
   margin: 0 auto;
+   transform: translateY(7px);
+  transition: all 0.3s ease-in-out;
+  animation:floaty 1s ease-in-out infinite;
+  animation-direction:alternate;
+}
+.newz-content:hover{
+  transform: translateY(7px);
+ transition: all 0.3s ease-in-out;
+ animation:floaty 0s ease-in-out infinite;
+ animation-direction:alternate;
 }
 .newz-content > h2 {
   color: #ffffff;
