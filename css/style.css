@@ -730,6 +730,9 @@ header.height-hd {
 header.static nav {
   margin-left: auto;
 }
+.link-active{
+  color:yellow;
+}
 nav.bg-clr2 ul li a,
 nav.bg-clr2 ul li a:before,
 nav.bg-clr2 ul li a:hover {
@@ -1950,6 +1953,10 @@ header nav ul li.has-mega-menu:hover > .mega-menu ul {
 .top-footer {
   background-color: #282f3a;
   padding: 76px 0;
+}
+.top-footer-2{
+  background-color: #282f3a;
+  padding-top:100px;
 }
 .widget-about {
   max-width: 340px;
