@@ -188,3 +188,8 @@ window.addEventListener("scroll", function () {
     x.style.display = "none";
   }
 });
+
+//dynamic year
+const year = document.getElementById("year");
+const currentYear = new Date().getFullYear();
+year.innerHTML = currentYear;
