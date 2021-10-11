@@ -53,6 +53,8 @@ template.
 
 /* IMPORTING GOOGLE FONTS */
 
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&family=Oswald:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
 @import url("https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;0,600;0,700;0,800;1,300;1,400;1,600;1,700;1,800&amp;family=Raleway:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;display=swap");
 
 /* ================================================================================== 
@@ -2094,6 +2096,9 @@ ul.social-icons {
   margin-bottom: 12px;
   margin-top: -2px;
 }
+.widget-links ul{
+  margin-top: 20px;
+}
 
 .widget-links ul li {
   display: block;
@@ -2121,7 +2126,7 @@ ul.social-icons {
 }
 .widget-contact ul li {
   color: #a0a8b5;
-  font-size: 16px;
+  font-size: 25px;
   margin-bottom: 14px;
   display: inline-block;
 }
@@ -2137,6 +2142,9 @@ ul.social-icons {
   font-size: 16px;
   line-height: 30px;
   margin-top: -7px;
+}
+.f-email{
+  font-size:16px !important;
 }
 
 /* ================= BOTTOM FOOTER ================= */
